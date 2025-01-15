@@ -1,1 +1,1 @@
-# ProjekGIT-arestu
+# ini adalah proyek git pertama arestu
